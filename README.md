@@ -1,4 +1,4 @@
-# music-generator
+# music-lstm
 LSTMs for lyric generation and lofi instrumental generation + lyric web scraping script
 
 provided:
