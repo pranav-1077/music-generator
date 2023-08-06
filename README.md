@@ -1,4 +1,5 @@
 # music-generator
+
 introduction: 
 Implementation of various deep learning architectures (Transformer, LSTM) for lyric generation and lofi instrumental generation + lyric web scraping script from Genius.com API
 
