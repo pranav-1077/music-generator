@@ -5,10 +5,11 @@ Implementation of various deep learning architectures (Transformer, LSTM) for ly
 
 provided:
 - lyric web scraping script: "scrape_lyrics.py"
-- lyric generating lstm model: "lyrics_lstm.py"
-- lofi instrumental generating lstm model: "lofi_lstm.py"
-- transformer-based model for instrumental generation: "transformer.py"
-- [ in progress ] song mashup recommendation script using Spotify API: "recommendation.py" 
+- lstm-based model for generating lyrics: "lyrics_lstm.py"
+- lstm-based model for generating lofi instrumentals: "lofi_lstm.py"
+- transformer-based model for generating lofi instrumentals: "lofi_transformer.py"
+- transformer-based model for generating lyrics: "lyrics_transformer.py"
+- [ in progress ] song mashup recommendation ML Algorithm using Spotify API and/or Youtube Music API: "recommendation.py" 
 
 
 
